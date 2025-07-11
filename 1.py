@@ -6,10 +6,10 @@ import os
 from datetime import datetime, timezone
 
 # === 🔧 ВСТАВЬ СЮДА СВОИ ДАННЫЕ ===
-api_id = 20417036      # <-- замени на свой API ID
-api_hash = '1f57588185e0fa6943c4a64842a3d2a7' # <-- замени на свой API Hash
-phone = '+79118516036'  # <-- твой номер Telegram в международном формате
-invite_link = 'https://t.me/+DRpohP4-57UxOTRi'
+api_id =       # <-- замени на свой API ID
+api_hash = '' # <-- замени на свой API Hash
+phone = ''  # <-- твой номер Telegram в международном формате
+invite_link = ''
 
 # === Задаём диапазон дат ===
 start_date = datetime(2025, 1, 1, tzinfo=timezone.utc)
